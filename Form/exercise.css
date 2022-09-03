@@ -1,0 +1,10 @@
+.all-cards
+{
+    display: flex;
+}
+
+.card 
+{
+    margin: 2%;
+}
+

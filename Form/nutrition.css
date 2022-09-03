@@ -1,0 +1,24 @@
+.chart
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card1,
+.card2,
+.card3,
+.card4
+{
+    margin: 2%;
+    padding: 2%;
+    border: 1px solid;
+}
+
+.heading
+{
+    margin: 2.5% auto 0% auto;
+}
+h2
+{
+    text-align: center;
+}
